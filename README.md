@@ -42,17 +42,6 @@ The server will start on `localhost:8080`.
 - Get an album by ID: `GET http://localhost:8080/albums/:id`
 - Create a new album: `POST http://localhost:8080/albums`
 
-## Project Structure
-
-```
-.
-├── handlers
-│   ├── handlers.go  # Contains the handler functions for each endpoint
-├── main.go          # Main application entry point
-├── go.mod           # Go module file
-└── README.md        # Project documentation (you are here)
-```
-
 ## Contributing
 
 Contributions are welcome! If you find a bug or want to add a new feature, please create an issue or submit a pull request.
