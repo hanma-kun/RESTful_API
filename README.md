@@ -1,6 +1,3 @@
-I apologize for any confusion. It seems there was a misunderstanding. Here's the content of the README.md file with proper markdown formatting:
-
-```markdown
 # REST API using Gin
 
 This project demonstrates a basic REST API implementation using the Gin framework in Go. It provides endpoints to manage albums.
